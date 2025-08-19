@@ -12,6 +12,7 @@ document.addEventListener('DOMContentLoaded', () => {
        counter ++;
         counterDispley.textContent = counter;
     })
+    // logic
     //evento
      marker.addEventListener('markerLost', () => {
         console.log('marcdor se perdio')
